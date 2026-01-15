@@ -1,60 +1,119 @@
-# 🚨 Women Safety Voice Assistant (Android App)
+🚨 Women Safety Voice Assistant (Android Application)
 
-Women Safety Voice Assistant is an Android-based emergency safety application developed using **Kotlin** and **Java**. The app is designed to provide quick, reliable, and hands-free assistance to women during emergency situations by enabling SOS alerts, real-time location sharing, and voice-activated emergency actions.
+The Women Safety Voice Assistant is an Android-based emergency assistance application developed using Kotlin and Java. The application is designed to ensure women’s safety by providing instant, hands-free emergency support through SOS alerts, real-time location sharing, and voice-activated actions during critical situations.
 
----
+👥 Project Team
 
-## 📌 Features
+Team Name: TEAM VISIONERS
 
-- 🔴 **SOS Emergency Alert**
-  - Instantly calls the police helpline (**112**)
-  - Sends emergency SMS alerts to trusted contacts
+Team Members:
 
-- 📍 **Real-Time Location Sharing**
-  - Shares live GPS location with selected emergency contacts
+Vansh Gupta
 
-- 📞 **Quick Access Emergency Contacts**
-  - One-tap calling and messaging to saved trusted numbers
+Anubhav Singh
 
-- 🎙 **Voice Command Support**
-  - Integrated with **Google Assistant**
-  - Trigger emergency actions using voice commands
-  - Enables hands-free usage in critical situations
+Suraj Singh
 
-- ⚡ **Fast & User-Friendly Interface**
-  - Simple UI for quick access during emergencies
+Saumitra Mishra
 
----
+📌 Key Features
+🔴 SOS Emergency Alert System
 
-## 🛠 Tech Stack
+Instantly initiates a call to the national emergency helpline (112)
 
-- **Programming Languages:** Kotlin, Java  
-- **Platform:** Android  
-- **IDE:** Android Studio  
-- **APIs Used:**
-  - Google Location Services (GPS)
-  - SMS Manager API
-  - Call Intent API
-  - Google Assistant Integration  
+Sends automated emergency SMS alerts to predefined trusted contacts
 
----
+📍 Real-Time Location Tracking
 
-## 📱 App Workflow
+Captures and shares the user’s live GPS location
 
-1. User activates the SOS button or voice command.
-2. App automatically:
-   - Calls emergency helpline (112)
-   - Sends SMS alert with live location
-   - Shares GPS coordinates with trusted contacts.
-3. Emergency contacts receive real-time location updates.
+Ensures accurate and continuous location updates during emergencies
 
----
+📞 Quick Access to Emergency Contacts
 
-## 🚀 Installation & Setup
+One-tap calling and messaging functionality
 
-Follow these steps to run the project locally:
+Secure storage of trusted contact numbers
 
-### 1️⃣ Clone the Repository
+🎙 Voice Command Activation
 
-```bash
+Integrated with Google Assistant
+
+Enables emergency actions through voice commands
+
+Facilitates hands-free operation in high-risk scenarios
+
+⚡ User-Centric Interface
+
+Minimalistic and intuitive UI
+
+Optimized for rapid response during emergencies
+
+🛠 Technology Stack
+
+Programming Languages: Kotlin, Java
+
+Platform: Android
+
+Development Environment: Android Studio
+
+APIs & Services Used:
+
+Google Location Services (GPS)
+
+SMS Manager API
+
+Call Intent API
+
+Google Assistant Integration
+
+📱 Application Workflow
+
+The user activates the emergency protocol via:
+
+SOS button, or
+
+Voice command through Google Assistant.
+
+The application automatically:
+
+Calls the emergency helpline (112)
+
+Sends alert messages containing live location data
+
+Shares GPS coordinates with trusted contacts
+
+Emergency contacts receive real-time location updates for immediate assistance.
+
+🚀 Installation & Setup
+
+Follow the steps below to run the project locally:
+
+1️⃣ Clone the Repository
 git clone https://github.com/thevibingteen/WOMEN_SAFETY_ASSISTANT.git
+
+2️⃣ Open in Android Studio
+
+Open Android Studio
+
+Select Open an Existing Project
+
+Choose the cloned repository folder
+
+3️⃣ Configure Permissions
+
+Ensure the following permissions are enabled:
+
+Location Access
+
+SMS Sending
+
+Phone Call Access
+
+Internet Connectivity
+
+4️⃣ Build & Run
+
+Connect an Android device or emulator
+
+Build and run the application
