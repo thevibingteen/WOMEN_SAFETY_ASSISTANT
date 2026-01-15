@@ -1,119 +1,77 @@
-🚨 Women Safety Voice Assistant (Android Application)
+# 🚨 Women Safety Voice Assistant (Android Application)
 
-The Women Safety Voice Assistant is an Android-based emergency assistance application developed using Kotlin and Java. The application is designed to ensure women’s safety by providing instant, hands-free emergency support through SOS alerts, real-time location sharing, and voice-activated actions during critical situations.
+The **Women Safety Voice Assistant** is an Android-based emergency assistance application developed to enhance women’s personal safety. The application enables **quick, reliable, and hands-free emergency actions** through SOS alerts, real-time location sharing, and voice command integration.
 
-👥 Project Team
+This project focuses on delivering immediate help during critical situations by combining mobile technologies with voice-assisted automation.
 
-Team Name: TEAM VISIONERS
+---
 
-Team Members:
+## 👥 Project Team
 
-Vansh Gupta
+**Team Name:** **TEAM VISIONERS**
 
-Anubhav Singh
+**Team Members:**
+- Vansh Gupta  
+- Anubhav Singh  
+- Suraj Singh  
+- Saumitra Mishra  
 
-Suraj Singh
+---
 
-Saumitra Mishra
+## 📌 Features
 
-📌 Key Features
-🔴 SOS Emergency Alert System
+### 🔴 SOS Emergency Alert
+- Instantly places a call to the national emergency helpline (**112**)
+- Sends automated SOS SMS alerts to pre-configured trusted contacts
 
-Instantly initiates a call to the national emergency helpline (112)
+### 📍 Real-Time Location Sharing
+- Fetches and shares the user’s live GPS coordinates
+- Ensures accurate location tracking during emergencies
 
-Sends automated emergency SMS alerts to predefined trusted contacts
+### 📞 Emergency Contact Access
+- One-tap calling and messaging functionality
+- Secure management of trusted emergency contacts
 
-📍 Real-Time Location Tracking
+### 🎙 Voice Command Support
+- Integrated with **Google Assistant**
+- Enables voice-triggered emergency actions
+- Allows hands-free usage in high-risk situations
 
-Captures and shares the user’s live GPS location
+### ⚡ User-Friendly Interface
+- Simple and intuitive design
+- Optimized for fast access during emergencies
 
-Ensures accurate and continuous location updates during emergencies
+---
 
-📞 Quick Access to Emergency Contacts
+## 🛠 Technology Stack
 
-One-tap calling and messaging functionality
+- **Programming Languages:** Kotlin, Java  
+- **Platform:** Android  
+- **IDE:** Android Studio  
 
-Secure storage of trusted contact numbers
+### APIs & Services:
+- Google Location Services (GPS)
+- SMS Manager API
+- Call Intent API
+- Google Assistant Integration  
 
-🎙 Voice Command Activation
+---
 
-Integrated with Google Assistant
+## 📱 Application Workflow
 
-Enables emergency actions through voice commands
+1. The user activates the emergency system using:
+   - SOS button, or
+   - Voice command.
+2. The application automatically:
+   - Calls the emergency helpline (112)
+   - Sends SOS SMS alerts with live location data
+   - Shares GPS coordinates with trusted contacts
+3. Emergency contacts receive real-time updates for immediate assistance.
 
-Facilitates hands-free operation in high-risk scenarios
+---
 
-⚡ User-Centric Interface
+## 🚀 Installation & Setup
 
-Minimalistic and intuitive UI
-
-Optimized for rapid response during emergencies
-
-🛠 Technology Stack
-
-Programming Languages: Kotlin, Java
-
-Platform: Android
-
-Development Environment: Android Studio
-
-APIs & Services Used:
-
-Google Location Services (GPS)
-
-SMS Manager API
-
-Call Intent API
-
-Google Assistant Integration
-
-📱 Application Workflow
-
-The user activates the emergency protocol via:
-
-SOS button, or
-
-Voice command through Google Assistant.
-
-The application automatically:
-
-Calls the emergency helpline (112)
-
-Sends alert messages containing live location data
-
-Shares GPS coordinates with trusted contacts
-
-Emergency contacts receive real-time location updates for immediate assistance.
-
-🚀 Installation & Setup
-
-Follow the steps below to run the project locally:
-
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/thevibingteen/WOMEN_SAFETY_ASSISTANT.git
-
-2️⃣ Open in Android Studio
-
-Open Android Studio
-
-Select Open an Existing Project
-
-Choose the cloned repository folder
-
-3️⃣ Configure Permissions
-
-Ensure the following permissions are enabled:
-
-Location Access
-
-SMS Sending
-
-Phone Call Access
-
-Internet Connectivity
-
-4️⃣ Build & Run
-
-Connect an Android device or emulator
-
-Build and run the application
