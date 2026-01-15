@@ -75,3 +75,29 @@ This project focuses on delivering immediate help during critical situations by 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/thevibingteen/WOMEN_SAFETY_ASSISTANT.git
+
+2️⃣ Open in Android Studio
+
+Launch Android Studio
+
+Select Open an Existing Project
+
+Navigate to the cloned repository folder
+
+3️⃣ Configure Permissions
+
+Ensure the following permissions are enabled:
+
+Location Access
+
+SMS Permission
+
+Phone Call Permission
+
+Internet Access
+
+4️⃣ Build & Run
+
+Connect a physical Android device or emulator
+
+Build and run the application
