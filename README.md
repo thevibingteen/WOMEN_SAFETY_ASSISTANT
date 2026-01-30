@@ -11,8 +11,8 @@ This project focuses on delivering immediate help during critical situations by 
 **Team Name:** **TEAM VISIONERS**
 
 **Team Members:**
-- Vansh Gupta  
 - Anubhav Singh  
+- Vansh gupta
 - Suraj Singh  
 - Saumitra Mishra  
 
